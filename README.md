@@ -1,0 +1,2 @@
+# Chat---Socket---Eclipse
+Utilize eclipse para rodar o projeto - Após abrir, selecionar a flexinha ao lado do botão executar - Rodar primeiro o servidorSocket - Rodar o ClienteSocketSwing - Verificar os nomes que estão no lado esquerdo da tela do chat - Logar com algum nome daqueles - Para entrar com outro login, basta apenas rodar novamente o clienteSocketSwing e logar com outro nome - Para mandar mensagem para alguém, selecionar o nome na lista do lado esquerdo e digitar a mensagem desejada
